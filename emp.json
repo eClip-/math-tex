@@ -1,13 +1,13 @@
 {
   "name": {
-    "de": "Modulname",
-    "en": "modulename"
+    "de": "Math-Tex",
+    "en": "Math-Tex"
   },
-  "slug": "your-slug",
-  "version": "x.y.z",
+  "slug": "math-tex",
+  "version": "0.0.1",
   "description": {
-    "de": "Kurze Beschreibung",
-    "en": "Short description"
+    "de": "Modul zur Darstellung von LaTeX",
+    "en": "Module for rendering LaTeX"
   },
   "contributors": [
     {
@@ -21,16 +21,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/eClip-/mp.git"
+    "url": "https://github.com/eClip-/math-tex.git"
   },
   "keywords": {
     "de": [
-      "schlagwort1",
-      "schlagwort2"
+      "latex",
+      "mathe"
     ],
     "en": [
-      "keyword1",
-      "keyword2"
+      "latex",
+      "maths"
     ]
   },
   "author": "Maik Hummel <maik@eclip.io>"
