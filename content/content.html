@@ -1,6 +1,7 @@
-<!-- an example of an awesome HTML import -->
-<link rel="import" ng-href="{{base_url}}/assets/any_assets.html">
+<link rel="import" ng-href="{{base_url}}/assets/math-tex.html">
 
-<!-- you have to use Custom Elements in order to include your own stylesheets -->
-<!-- you are not allowed to use the <style> tag here -->
-<h1>Just plain HTML</h1>
+<div class="text-center">
+	<code is="math-tex" style="display: inline-blick; font-size: 3em;">
+		{{settings.latex}}
+	</code>
+</div>

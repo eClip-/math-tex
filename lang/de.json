@@ -1,5 +1,4 @@
 {
-  "key": "Schlüssel",
-  "value": "Wert",
-  "translation": "Übersetzung"
+  "latex": "LaTeX",
+  "latex_info": "Bitte trage einen LaTeX-Wert ein."
 }

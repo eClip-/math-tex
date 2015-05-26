@@ -1,5 +1,4 @@
 {
-  "key": "Key",
-  "value": "Value",
-  "translation": "Translation"
+  "latex": "LaTeX",
+  "latex_info": "Please fill in a LaTeX value!"
 }
